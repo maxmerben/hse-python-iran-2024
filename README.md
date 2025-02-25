@@ -25,6 +25,6 @@
 |10.02.25|***Самостоятельная работа***<br>Повторение| |1. перечитать [конспект](https://github.com/maxmerben/hse-python-iran-2024/blob/main/seminars/hse-python-iran-sem11.ipynb)<br>2. допзадачи 11.1–11.9 из конспекта|
 |17.02.25|Повторение| |1. перечитать [конспект](https://github.com/maxmerben/hse-python-iran-2024/blob/main/seminars/hse-python-iran-sem11.ipynb)<br>2. допзадачи 11.1–11.9 из конспекта|
 |24.02.25|Токенизация (*nltk*)<br>Морфоанализ и лемматизация (*pymorphy3*)<br>Инструменты для работы с фарси (*hazm*)| |1. перечитать [конспект](https://github.com/maxmerben/hse-python-iran-2024/blob/main/seminars/hse-python-iran-sem11.ipynb)<br>2. допзадачи 11.1–11.9 из конспекта|
-|03.03.25|Векторизация (*CountVectorizer*, TF-IDF)<br>Классификация текстов| | |
+|03.03.25|Векторизация (*CountVectorizer*, TF-IDF)<br>Классификация текстов| |1. перечитать [конспект](https://github.com/maxmerben/hse-python-iran-2024/blob/main/seminars/hse-python-iran-sem13.ipynb)<br>2. допзадачи 13.1–13.4 из конспекта|
 |10.03.25|***Защита проектов***| | |
 |17.03.25|Статистика и визуализация данных| | |
